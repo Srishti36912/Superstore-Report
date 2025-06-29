@@ -1,4 +1,4 @@
-# Superstore-Dashoard
+# Superstore-Dashboard
 📊 Sales Analytics: Sample Superstore Profit Insights Dashboard
 A dynamic, interactive data visualization tool built to explore superstore sales data- focusing on sales attributes, profits, regional comparisons.
 
