@@ -38,4 +38,4 @@ The goal of the Sample Superstore Profit Dashboard is to provide a clear and int
 
 6. Screenshot
 
-Overview of dashboard : https://github.com/Srishti36912/Superstore-Report/blob/main/Snapshot%20of%20Superstore%20Report.png
+Overview of dashboard : |[Dashboard Preview](https://github.com/Srishti36912/Superstore-Report/blob/main/Snapshot%20of%20Superstore%20Report.png)
