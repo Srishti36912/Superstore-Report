@@ -32,4 +32,4 @@ The goal of the Sample Superstore Profit Dashboard is to provide a clear and int
   - Operational Efficiency: Identifying areas with consistent losses enables corrective actions, such as revising shipping methods, adjusting discounts, or changing suppliers.
 
 ### 6. Screenshot
-Overview of dashboard : [Dashboard Preview]<img src="Sample Superstore Profit Report.png">
+Overview of dashboard : [Dashboard Preview]<img src="Snapshot of Superstore Report.png">
